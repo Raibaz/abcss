@@ -3,6 +3,7 @@ import re
 
 vendor_prefixes = [
 	'-webkit-',
+	'-moz-'
 	'-ms-'
 ]
 
